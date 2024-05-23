@@ -19,8 +19,8 @@ try:
     # Login to Snapchat
     user_field = driver.find_element_by_name("username")
     pass_field = driver.find_element_by_name("password")
-    user_field.send_keys(username)
-    pass_field.send_keys(password)
+    user_field.send_keys(live_raccoon)
+    pass_field.send_keys(nigcap-tiQxy0-nyvsyx)
     pass_field.send_keys(Keys.RETURN)
 
     time.sleep(5)  # Wait for login to complete
