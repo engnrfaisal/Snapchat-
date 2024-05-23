@@ -4,8 +4,8 @@ from selenium.webdriver.common.keys import Keys
 import time
 
 # Get Snapchat credentials from environment variables
-username = os.getenv("SNAPCHAT_USERNAME")
-password = os.getenv("SNAPCHAT_PASSWORD")
+username = os.getenv("SNAPCHAT_live_raccoon")
+password = os.getenv("SNAPCHAT_nigcap-tiQxy0-nyvsyx")
 
 # Initialize WebDriver (Assuming using Chrome)
 options = webdriver.ChromeOptions()
